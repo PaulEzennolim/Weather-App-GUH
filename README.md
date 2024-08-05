@@ -25,12 +25,15 @@ cd yourprojectname
 django-admin startproject yourprojectoperationname
 
 4. Configure settings:
+
 In settings.py, add yourprojectoperationname to the INSTALLED_APPS list.
 
 5. Run the development server:
+
 python manage.py runserver
 
 6. Access the application:
+
 Click on the URL provided in the terminal (usually http://127.0.0.1:8000/) to open the application in your web browser.
 
 ## APIs Used
