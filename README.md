@@ -10,6 +10,29 @@ Weather App GUH is a weather application built using Python, the Django framewor
 
 * Django
 
+## Setup and Installation
+
+1. Open a command prompt/terminal.
+
+2. Navigate to the desired directory where you want to place the project.
+
+3. Create a Django project and start a new app:
+
+django-admin startproject yourprojectname
+
+cd yourprojectname
+
+django-admin startproject yourprojectoperationname
+
+4. Configure settings:
+In settings.py, add yourprojectoperationname to the INSTALLED_APPS list.
+
+5. Run the development server:
+python manage.py runserver
+
+6. Access the application:
+Click on the URL provided in the terminal (usually http://127.0.0.1:8000/) to open the application in your web browser.
+
 ## APIs Used
 
 ### OpenWeather API:
@@ -36,4 +59,4 @@ The Google Custom Search API allows for searching and retrieving images related 
 
 3. Run the Django server and access the app to enter a city name and get weather information and an image.
 
-Thank you for taking the time to check out this project! Your interest and support means so much to me.
+Thank you for taking the time to check out this project!
