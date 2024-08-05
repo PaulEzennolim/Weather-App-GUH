@@ -6,9 +6,9 @@ Weather App GUH is a weather application built using Python, the Django framewor
 
 Requirements:
 
-Python
+1. Python
 
-Django
+2. Django
 
 APIs Used
 
