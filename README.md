@@ -36,4 +36,4 @@ Usage:
 
 3. Run the Django server and access the app to enter a city name and get weather information and an image.
 
-Thank you for checking out this project! Your interest and support are greatly appreciated.
+Thank you for taking the time to check out this project! Your interest and support means so much to me.
